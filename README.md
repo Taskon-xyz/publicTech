@@ -108,7 +108,7 @@ The WhiteLabel solution addresses the need for partners to integrate TaskOn func
 - Email verification code system implementation
 - Performance optimization through token-embedded user state
 
-#### [WhiteLabel Token Compatibility Solution.md](./WhiteLabel%20Compatibility%20Solution.md)
+#### [WhiteLabel Compatibility Solution.md](./WhiteLabel%20Compatibility%20Solution.md)
 **Authentication compatibility framework** - Zero-intrusion token compatibility system:
 - Dual token architecture ensuring 100% backward compatibility
 - Shadow token implementation with WhiteLabel metadata
